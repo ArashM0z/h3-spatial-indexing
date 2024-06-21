@@ -20,3 +20,5 @@ cells = aggregate_points(events, resolution=9)
 for c in cells[:10]:
     print(c.cell, c.count, c.centre_lat, c.centre_lon)
 ```
+
+<!-- 2024-06 -->
